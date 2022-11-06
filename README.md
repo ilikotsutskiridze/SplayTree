@@ -1,1 +1,1 @@
-This program implements the work of Splay Tree.
+This program implements Splay Tree.
